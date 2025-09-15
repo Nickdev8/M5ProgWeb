@@ -6,7 +6,7 @@ services:
   php:
     image: wodby/php:latest
     volumes:
-      - '/html:/var/www/html'
+      - './html:/var/www/html'
     depends_on:
       - mariadb
 # Nginx Service
