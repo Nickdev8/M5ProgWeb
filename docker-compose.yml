@@ -37,8 +37,8 @@ services:
     image: phpmyadmin/phpmyadmin
     environment:
       PMA_HOST: ${DB_HOST}
-      PMA_USER: ${DB_USER}
-      PMA_PASSWORD: ${DB_PASSWORD}
+      PMA_USER: root
+      PMA_PASSWORD: ${DB_ROOT_PASSWORD}
     ports:
       - "1088:80"
 
