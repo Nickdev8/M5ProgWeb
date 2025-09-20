@@ -1,1 +1,8 @@
+# env
 .env
+html/.env
+
+# node/php/etc (voeg toe wat jij gebruikt)
+vendor/
+node_modules/
+dist/
