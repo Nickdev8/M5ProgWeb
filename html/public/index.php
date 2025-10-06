@@ -1,10 +1,8 @@
 <?php
-
-
-include_once("../source/database.php");
-
-$connection = database_connect();
-
-$result = $connection->query("SELECT 'het werkt' as nice");
-
-print_r($result->fetch_all());
+include_once("adres.php");
+echo '<br>';
+echo '<br>';
+include_once("personen.php");
+echo '<br>';
+echo '<br>';
+include_once("bordspel.php");
