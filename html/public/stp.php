@@ -1,6 +1,4 @@
 <?php
-include_once("../source/database.php");
-
 $connection = new mysqli('mariadb', 'appStpUser', 'appStpUser!2024', 'm5prog');
 if ($connection->connect_errno) {
     die('Connection failed: ' . $connection->connect_error);
