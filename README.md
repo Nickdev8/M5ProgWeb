@@ -41,4 +41,4 @@ met deze lessen gaan we dieper in het ontwerpen van databases in, en gaan we wee
 - [x] [\08 db storedprocedures\03 rights.MD](\08%20db%20storedprocedures\03%20rights.MD)
 - [x] [\08 db storedprocedures\04 inputs.MD](\08%20db%20storedprocedures\04%20inputs.MD)
 - [x] [\08 db storedprocedures\05 php call stp argumenten.MD](\08%20db%20storedprocedures\05%20php%20call%20stp%20argumenten.MD)
-- [_] [\z_extra 04 automatische installatie\00 sql map.MD](\z_extra%2004%20automatische%20installatie\00%20sql%20map.MD)
+- [x] [\z_extra 04 automatische installatie\00 sql map.MD](\z_extra%2004%20automatische%20installatie\00%20sql%20map.MD)
